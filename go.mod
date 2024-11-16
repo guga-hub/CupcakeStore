@@ -15,12 +15,11 @@ require (
 require (
 	github.com/Masterminds/goutils v1.1.1 // indirect
 	github.com/Masterminds/semver/v3 v3.2.0 // indirect
-	github.com/disintegration/imaging v1.6.2 // indirect
-
+	github.com/disintegration/imaging v1.6.2
 	github.com/gabriel-vasile/mimetype v1.4.2 // indirect
 	github.com/go-playground/locales v0.14.1 // indirect
 	github.com/go-playground/universal-translator v0.18.1 // indirect
-	github.com/gofiber/fiber/v2 v2.52.5 // indirect
+	github.com/gofiber/fiber/v2 v2.52.5
 	github.com/huandu/xstrings v1.3.3 // indirect
 	github.com/imdario/mergo v0.3.11 // indirect
 	github.com/jinzhu/inflection v1.0.0 // indirect
