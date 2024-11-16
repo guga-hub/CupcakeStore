@@ -3,7 +3,7 @@ package session
 import (
 	"time"
 
-	"github.com/bitebait/cupcakestore/models"
+	"github.com/guga_hub/cupcakestore/models"
 	"github.com/gofiber/fiber/v2/middleware/session"
 )
 

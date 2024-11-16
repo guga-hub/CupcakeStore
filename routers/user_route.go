@@ -1,11 +1,11 @@
 package routers
 
 import (
-	"github.com/bitebait/cupcakestore/controllers"
-	"github.com/bitebait/cupcakestore/database"
-	"github.com/bitebait/cupcakestore/middlewares"
-	"github.com/bitebait/cupcakestore/repositories"
-	"github.com/bitebait/cupcakestore/services"
+	"github.com/guga_hub/cupcakestore/controllers"
+	"github.com/guga_hub/cupcakestore/database"
+	"github.com/guga_hub/cupcakestore/middlewares"
+	"github.com/guga_hub/cupcakestore/repositories"
+	"github.com/guga_hub/cupcakestore/services"
 	"github.com/gofiber/fiber/v2"
 )
 

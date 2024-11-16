@@ -2,7 +2,7 @@ package models
 
 import (
 	"fmt"
-	"github.com/bitebait/cupcakestore/utils"
+	"github.com/guga_hub/cupcakestore/utils"
 	"github.com/disintegration/imaging"
 	"image"
 	"mime/multipart"

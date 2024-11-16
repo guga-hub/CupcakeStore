@@ -1,11 +1,11 @@
 package middlewares
 
 import (
-	"github.com/bitebait/cupcakestore/database"
-	"github.com/bitebait/cupcakestore/models"
-	"github.com/bitebait/cupcakestore/repositories"
-	"github.com/bitebait/cupcakestore/services"
-	"github.com/bitebait/cupcakestore/session"
+	"github.com/guga_hub/cupcakestore/database"
+	"github.com/guga_hub/cupcakestore/models"
+	"github.com/guga_hub/cupcakestore/repositories"
+	"github.com/guga_hub/cupcakestore/services"
+	"github.com/guga_hub/cupcakestore/session"
 	"github.com/gofiber/fiber/v2"
 )
 

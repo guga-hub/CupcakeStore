@@ -2,8 +2,8 @@ package services
 
 import (
 	"fmt"
-	"github.com/bitebait/cupcakestore/models"
-	"github.com/bitebait/cupcakestore/repositories"
+	"github.com/guga_hub/cupcakestore/models"
+	"github.com/guga_hub/cupcakestore/repositories"
 )
 
 type OrderService interface {

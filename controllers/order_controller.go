@@ -2,10 +2,10 @@ package controllers
 
 import (
 	"errors"
-	"github.com/bitebait/cupcakestore/models"
-	"github.com/bitebait/cupcakestore/services"
-	"github.com/bitebait/cupcakestore/utils"
-	"github.com/bitebait/cupcakestore/views"
+	"github.com/guga_hub/cupcakestore/models"
+	"github.com/guga_hub/cupcakestore/services"
+	"github.com/guga_hub/cupcakestore/utils"
+	"github.com/guga_hub/cupcakestore/views"
 	"github.com/gofiber/fiber/v2"
 )
 

@@ -4,8 +4,8 @@ import (
 	"errors"
 	"time"
 
-	"github.com/bitebait/cupcakestore/models"
-	"github.com/bitebait/cupcakestore/session"
+	"github.com/guga_hub/cupcakestore/models"
+	"github.com/guga_hub/cupcakestore/session"
 	"github.com/gofiber/fiber/v2"
 )
 

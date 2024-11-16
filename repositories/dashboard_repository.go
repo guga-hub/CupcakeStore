@@ -1,7 +1,7 @@
 package repositories
 
 import (
-	"github.com/bitebait/cupcakestore/models"
+	"github.com/guga_hub/cupcakestore/models"
 	"gorm.io/gorm"
 	"time"
 )

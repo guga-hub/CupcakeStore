@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	"github.com/bitebait/cupcakestore/models"
-	"github.com/bitebait/cupcakestore/views"
+	"github.com/guga_hub/cupcakestore/models"
+	"github.com/guga_hub/cupcakestore/views"
 	"github.com/gofiber/fiber/v2"
 )
 
